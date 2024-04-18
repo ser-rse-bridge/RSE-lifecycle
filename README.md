@@ -25,6 +25,7 @@ In addition, because terminologies and definitions often vary, e.g., one person 
     - https://orcid.org/0000-0003-3818-4442 
     - Affiliation: German Aerospace Center (DLR) & University of Cologne, Germany
 - Michael Goedicke 
+    - goedigit
     - University of Duisburg-Essen / paluno and NFDIxCS, Germany 
     - https://orcid.org/0009-0004-2383-6764
 - Wilhelm Hasselbring
