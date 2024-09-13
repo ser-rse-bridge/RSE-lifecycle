@@ -1,4 +1,4 @@
-# Lifycycle
+# Lifecycle
 
 ```mermaid
 stateDiagram-v2
@@ -10,7 +10,7 @@ stateDiagram-v2
   Initial --> Growth
   Initial --> Complete
   Initial --> Challenge
-  Growth --> Evolution: New Resoruces
+  Growth --> Evolution: New Resources
   Growth --> Challenge
   Evolution --> Complete
   Evolution --> Challenge
